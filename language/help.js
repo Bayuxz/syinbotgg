@@ -36,7 +36,7 @@
 
   // Message Success Kick User From Group
   exports.kickUser =() => {
-  return `Sukses Kick User Dari Grup ☑️
+  return `Sukses Kick User Dari Grup Wowkaoak ☑️
   `
   }
 
@@ -72,7 +72,7 @@
 
   // Message No Spam
   exports.janSpam = () => {
-  return `Jan Spam Dong Kak 🐧
+  return `Jan Spam Woy 🐧
   `
   }
 
@@ -554,7 +554,7 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   *🙏 Thanks To*
   ✎ Dika Ardnt
   ✎ Fatih Arridho
-  ✎ Nurutomo
+  ✎ Bayxz
   ✎ Mhankbarbar
   ✎ Zeeone Ofc
   ✎ Ryuka Team
@@ -579,8 +579,8 @@ Sanksi : *Warn/Soft Block 🚧*
 👦 : Bot nya Slow Respon 😒
 🤖 : Mohon Bersabar, Mungkin Kendala Dari Jaringan, Signal, Atau Bahkan Terbanned Dari Pihak WhatsApp
 
-👦 : Scriptnya Beli Dimana? 😁
-🤖 : Script Ini Tidak Di Perjualbelikan Karena Script Ini Dibagikan Secara Free. Kalian Bisa Mendapatkannya Di Channel Ryuuka Botz
+👦 : Apakah owner memiliki discord?
+🤖 : Tentu Disini dia menyediakan server MCPE 1.18 nih: https://discord.gg/N8WrKjQc
 
 👦 : Boleh Masukin Ke Grup Saia Tidak? 😁
 🤖 : Untuk Masalah Memasukkan Bot Ke Dalam Grup Bisa Menghubungi Owner
@@ -592,17 +592,17 @@ Sanksi : *Warn/Soft Block 🚧*
 🤖 : Jika Menemukan Bug/Error Silahkan Langsung Hubungi Owner/Creator Agar Segera Di Fix 
 
 
-Tetap Patuhi Rules Agar Tetap Bisa Menikmati Bot 😁
+Tetap Patuhi Rules Agar Tetap Bisa Menikmati Bot Sir
 
 *⚠️ Note :* Segala Ketentuan Dan Kebijakan Yang Berlaku Di Pegang Oleh Owner Bot, Sewaktu-Waktu Owner Berhak Memakai Ataupun Mengubah Kebijakan Dan Ketentuan Yang Berlaku
 
-*Thanks To 🙏* Buat Kalian User-User Yang Sudah Memakai Script Ini Dan Pengguna Bot Yang Sudah Mau Mematuhi Rules, Serta Para Constributor Yang Sudah Membantu Dalam Pembuatan Bot Ini 🙏😁
+*Thanks To :v* Buat Kalian User-User Yang Sudah Memakai Script Ini Dan Pengguna Bot Yang Sudah Mau Mematuhi Rules, Serta Para Constributor Yang Sudah Membantu Dalam Pembuatan Bot Ini!
 `
 }
 
 // Donasi
   exports.donasi = () => {
-	return`*TERIMA KASIH SUDAH MAU DONASI 🤗*
+	return`*Thanks donasinya (Kami tidak Maksa)*
 
 *Q.S Az-Zalzalah Ayat 7 :*
 
@@ -620,10 +620,10 @@ zarrah, niscaya dia akan melihat
   return`
 *SEWA BOT 💫*
 
-📆 1 Minggu : Rp. 10.000,00
-📆 1 Bulan : Rp. 20.000,00
-📆 1 Tahun : Rp. 100.000,00
-📆 Permanen : Buat Bot Sendiri!!!
+📆 1 Minggu : Rp. 5.000,00
+📆 1 Bulan : Rp. 10.000,00
+📆 1 Tahun : Rp. 50.000,00
+📆 Permanen : Rp. 300.000,00
 
 *🏦 PAYMENT :*
 - Gopay
@@ -633,7 +633,7 @@ zarrah, niscaya dia akan melihat
 
   // Welcome
   exports.welcome = () => {
-  return `Intro Dulu Yuk Biar Keren 🤙
+  return `Intro Dulu Coy Biar Keren 🗿
 
 📛 Nama : 
 🔞 Umur :
@@ -1213,10 +1213,10 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
 
   // Thanks To
   exports.sthanksto= () => {
-  return`  *🙏 Thanks To*
+  return`  *😱 Thanks To*
   ✎ Dika Ardnt
   ✎ Fatih Arridho
-  ✎ Nurutomo
+  ✎ Bayxz
   ✎ Mhankbarbar
   ✎ Zeeone Ofc
   ✎ Ryuka Team
